@@ -1,4 +1,0 @@
-HMM
-===
-
-HMM cpp library
